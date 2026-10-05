@@ -7,7 +7,7 @@
 </head>
 <body>
  <section id="tentang">
-        <img src="istockphoto-2078490118-612x612.jpg" alt="Foto Profil" width="500" height="300">
+        <img src="istockphoto-2078490118-612x612.JPG" alt="Foto Profil" width="500" height="300">
         <h1><strong>SAYA <em>RANGGA ARYA PRATAMA</em></strong></h1>
         <h2>DARI JAWA TENGAH</h2>
         <p>SAYA SUKA MAIN GAME YANG BERGENRE ROGUELIKE DAN DIFFICULT KARENA MENANTANG DAN SUSAH UNTUK DI TAMATKAN</p>
